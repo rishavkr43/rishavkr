@@ -1,4 +1,3 @@
-# rishavkr
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Rishav%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20Full-Stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
@@ -26,50 +25,78 @@ I love open collaboration. If you're here to contribute, explore, or just see wh
 
 ---
 
-## 🧠 What I'm Building
+## 🧩 Skills & Arsenal
 
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| 🌾 **[AgriThrive](https://github.com/rishavkr43/AgriThrive)** | AI-powered agricultural partner — crop prediction, disease diagnosis, unified farm dashboard | React, Node.js, Supabase, Gen AI | 🟢 Active |
-| 🔍 **[Neural Archaeologist](https://github.com/rishavkr43/neural-archaeologist)** | Multi-agent system that reverse-engineers codebases — 300K+ commits, 40+ months of history in <3 min | LangGraph, LLM, WebSocket, FastAPI | 🟢 Active |
-| 🎬 **[VidSage](https://github.com/rishavkr/VidSage)** | RAG-powered Chrome extension for querying YouTube transcripts interactively | FastAPI, FAISS, Three.js, RAG | 🟡 Open |
-| 💸 **[Finstra AI](https://github.com/rishavkr/Finstra)** | Multilingual finance chatbot — 9 Indian languages, 95% voice accuracy, scam detection | Next.js, Flask, NLP | ✅ Shipped |
+<div align="center">
 
----
+### 🗣️ Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🛠️ Tech Stack
+</div>
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🤖 AI / ML & Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Advanced-FF6B35?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Advanced-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Generative%20AI-Expert-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-Advanced-06B6D4?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Advanced-F55036?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Frameworks & Runtimes**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-**AI / ML**
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-Intermediate-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Advanced-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Gen%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+</div>
 
-**Databases & Infra**
+<div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Intermediate-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Intermediate-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS%20Vector%20DB-Advanced-FF6B35?style=for-the-badge&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Intermediate-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Expert-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
