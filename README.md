@@ -19,7 +19,7 @@
 
 I'm **Rishav Kumar** - a B.Tech CSE student at IEM Kolkata (2023–2027), deep in the world of **agentic AI**, **LangGraph pipelines**, and **full-stack engineering**. I build systems that *think*, not just respond.
 
-I love open collaboration. If you're here to contribute, explore, or just see what's possible with multi-agent AI — you're in the right place. 🚀
+I love open collaboration. If you're here to contribute, explore, or just see what's possible with multi-agent AI - you're in the right place. 🚀
 
 > *"Build systems that are greater than the sum of their agents."*
 
@@ -171,6 +171,6 @@ Have an idea? Want to collab? Just vibe about AI?
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*Thanks for stopping by — now go build something.* 🛸
+*Thanks for stopping by - now go build something.* 🛸
 
 </div>
