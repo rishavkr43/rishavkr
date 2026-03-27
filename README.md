@@ -17,7 +17,7 @@
 
 ## 👋 Hey there, Contributor!
 
-I'm **Rishav Kumar** — a B.Tech CSE student at IEM Kolkata (2023–2027), deep in the world of **agentic AI**, **LangGraph pipelines**, and **full-stack engineering**. I build systems that *think*, not just respond.
+I'm **Rishav Kumar** - a B.Tech CSE student at IEM Kolkata (2023–2027), deep in the world of **agentic AI**, **LangGraph pipelines**, and **full-stack engineering**. I build systems that *think*, not just respond.
 
 I love open collaboration. If you're here to contribute, explore, or just see what's possible with multi-agent AI — you're in the right place. 🚀
 
